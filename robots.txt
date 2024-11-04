@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oluxeice.github.io/GKZ/sitemap_index.txt
+Sitemap: https://oluxeice.github.io/MUt/sitemap_index.txt
+Sitemap: https://oluxeice.github.io/ejN/sitemap_index.txt
+Sitemap: https://oluxeice.github.io/hew/sitemap_index.txt
